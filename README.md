@@ -2,7 +2,7 @@
 
 A virtual piano application implemented in C++ with a graphical user interface using Windows Forms. This application allows users to play piano notes through both GUI interactions and keyboard inputs.
 
-![Digital Piano](https://i.imgur.com/placeholder-for-screenshot.png)
+![Digital Piano](DIGITAL PIANO WITH GUI/Project1/snippets and vid/design view of piano to edit.png)
 
 ## Features
 
